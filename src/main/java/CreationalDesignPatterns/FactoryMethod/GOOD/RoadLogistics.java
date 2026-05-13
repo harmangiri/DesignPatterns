@@ -1,6 +1,6 @@
 package CreationalDesignPatterns.FactoryMethod.GOOD;
 
 // 4. Concrete Creators
-public class RoadLogistics extends Logistics {
+public abstract class RoadLogistics extends Logistics {
    
 }

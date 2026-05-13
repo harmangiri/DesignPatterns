@@ -5,9 +5,9 @@ public class Main {
         System.out.println("--- GOOD Practice (Factory Method) Execution ---");
 
         // Land and Sea logistics
-        Logistics roadLogistics = new RoadLogistics();
-        roadLogistics.planDelivery();
-
+//        Logistics roadLogistics = new RoadLogistics();
+//        roadLogistics.planDelivery();
+        
         Logistics seaLogistics = new SeaLogistics();
         seaLogistics.planDelivery();
         
