@@ -1,0 +1,91 @@
+############################
+# Allow important docs
+############################
+!README.md
+!README.txt
+!README
+
+############################
+# IntelliJ / IDEs
+############################
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+############################
+# Java / Spring Boot
+############################
+target/
+build/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+############################
+# Maven / Gradle
+############################
+.mvn/
+.gradle/
+
+############################
+# Node / Angular
+############################
+node_modules/
+dist/
+.tmp/
+.angular/
+.cache/
+
+############################
+# Logs
+############################
+logs/
+*.log
+
+############################
+# OS Files
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Environment / Secrets
+############################
+.env
+.env.*
+application-local.yml
+application-dev.yml
+application-prod.yml
+
+############################
+# Temporary / Backup
+############################
+*.swp
+*.bak
+*.tmp
+*.temp
+
+############################
+# Coverage / Reports
+############################
+coverage/
+reports/
+
+############################
+# Database / Dumps
+############################
+*.sql
+*.db
+
+############################
+# Misc
+############################
+*.pid
+*.seed
