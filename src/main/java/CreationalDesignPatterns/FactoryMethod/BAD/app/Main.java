@@ -1,4 +1,4 @@
-package CreationalDesignPatterns.FactoryMethod.BAD;
+package CreationalDesignPatterns.FactoryMethod.BAD.app;
 
 public class Main {
     public static void main(String[] args) {

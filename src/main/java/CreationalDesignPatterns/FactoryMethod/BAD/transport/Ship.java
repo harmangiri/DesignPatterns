@@ -1,4 +1,4 @@
-package CreationalDesignPatterns.FactoryMethod.BAD;
+package CreationalDesignPatterns.FactoryMethod.BAD.transport;
 
 public class Ship {
     public void deliver() {

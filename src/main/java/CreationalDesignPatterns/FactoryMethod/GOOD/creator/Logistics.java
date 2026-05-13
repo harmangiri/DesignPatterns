@@ -1,4 +1,6 @@
-package CreationalDesignPatterns.FactoryMethod.GOOD;
+package CreationalDesignPatterns.FactoryMethod.GOOD.creator;
+
+import CreationalDesignPatterns.FactoryMethod.GOOD.product.Transport;
 
 // 3. Creator Abstract Class
 public abstract class Logistics {

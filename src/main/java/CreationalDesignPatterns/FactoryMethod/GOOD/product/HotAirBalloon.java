@@ -1,4 +1,4 @@
-package CreationalDesignPatterns.FactoryMethod.GOOD;
+package CreationalDesignPatterns.FactoryMethod.GOOD.product;
 
 public class HotAirBalloon implements Transport {
     @Override

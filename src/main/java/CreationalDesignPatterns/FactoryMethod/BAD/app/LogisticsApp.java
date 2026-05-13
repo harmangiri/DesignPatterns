@@ -1,4 +1,7 @@
-package CreationalDesignPatterns.FactoryMethod.BAD;
+package CreationalDesignPatterns.FactoryMethod.BAD.app;
+
+import CreationalDesignPatterns.FactoryMethod.BAD.transport.Ship;
+import CreationalDesignPatterns.FactoryMethod.BAD.transport.Truck;
 
 public class LogisticsApp {
     public void planDelivery(String transportType) {
