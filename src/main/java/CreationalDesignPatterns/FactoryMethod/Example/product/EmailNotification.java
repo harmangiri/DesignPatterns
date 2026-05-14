@@ -27,7 +27,7 @@ public class EmailNotification implements Notification {
         
         // 1. Setup mail server properties (Assuming Gmail SMTP for this example)
         Properties props = new Properties();
-        props.put("mail.smtp.host", "smtprelay.kuonitumlare.int");
+        props.put("mail.smtp.host", "test.test.intranet");
 
         // 2. Create a mail session with an authenticator
         Session session = Session.getInstance(props, null);
